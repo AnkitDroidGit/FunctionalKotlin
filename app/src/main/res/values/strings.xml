@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Functional Kotlin</string>
+    <string name="trigram_111">1 One</string>
+    <string name="trigram_011">2 Two</string>
+    <string name="trigram_101">3 Three</string>
+    <string name="trigram_001">4 Four</string>
+    <string name="trigram_110">5 Five</string>
+    <string name="trigram_010">6 Six</string>
+    <string name="trigram_100">7 Seven</string>
+    <string name="trigram_000">8 Eight</string>
+
+</resources>
